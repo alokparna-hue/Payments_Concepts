@@ -28,6 +28,6 @@ which is communicated to the merchant, through the same network and acquirer. Th
 | Account status (active/inactive)
 | Card status (active/inactive)
 | PIN number
-| Cardholder status
+| Cardholder status and so on.
 
 _**Example**_: 

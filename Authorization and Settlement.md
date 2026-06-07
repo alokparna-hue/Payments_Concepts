@@ -24,10 +24,9 @@ which is communicated to the merchant, through the same network and acquirer. Th
 
 | ***What does the issuer verify?** |
 ---|
-| Account balance
-| Account status (active/inactive)
+| Credit limit/availability
 | Card status (active/inactive)
-| PIN number
-| Cardholder status and so on.
+| PIN validation
+| Fraud indicators
 
 _**Example**_: 

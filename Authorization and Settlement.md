@@ -29,4 +29,4 @@ which is communicated to the merchant, through the same network and acquirer. Th
 | PIN validation
 | Fraud indicators
 
-_**Example**_: 
+_**Example of an Authorization**_: 

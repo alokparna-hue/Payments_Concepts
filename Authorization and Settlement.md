@@ -18,7 +18,16 @@ This refers to the stage where a customer's transaction request is **_authorized
   (In this case, _tap-to-pay_ feature ensures the merchant's device reads the card data without any manual entry.)
 - **Swipe** the card on the POS terminal (if EMV chip read does not work) and **enter** the PIN manually
 
-The merchant transfers this data to the **issuer** through the **acquirer** and the **card network**. The issuer verifies the transaction and responds with an **approve** or **decline** message, 
+The merchant's POS terminal transfers this data to the **issuer** through the **acquirer** and the **card network**. The issuer *verifies the transaction and responds with an **approve** or **decline** 
+message, 
 which is communicated to the merchant, through the same network and acquirer. This entire process, in a nutshell, constitutes Authorization.
+
+| ***What does the issuer verify?** |
+---|
+| Account balance
+| Account status (active/inactive)
+| Card status (active/inactive)
+| PIN number
+| Cardholder status
 
 _**Example**_: 

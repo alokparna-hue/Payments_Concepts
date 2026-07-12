@@ -37,8 +37,8 @@ Sci-fi shop's POS terminal sent the transaction details to its acquirer/processo
 
 Settlement refers to the process where funds are actually **transferred** and **settled** in the merchant's account. The funds transfer usually follow the reverse flow of authorization.
 
-_Issuer > Network > Processor/Acquirer > Merchant_
+**_Issuer > Network > Processor/Acquirer > Merchant_**
 
 | **Note** |
 --- |
-| The cardholder is not charged during settlement (as the cardholder is charged during the monthly billing cycle). Settlement is an internal process that ensures the timely transfer of funds amongst all the concerned entities. Each of the participating entity charges a portion of the fund as fee for facilitating the transaction. |
+| The cardholder is **not** charged during settlement (as the cardholder is charged during the monthly billing cycle). Settlement is an **internal process** that ensures the timely transfer of funds amongst all the concerned entities. Each of the participating entity charges a portion of the fund as fee for facilitating the transaction. |

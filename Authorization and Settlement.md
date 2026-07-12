@@ -11,7 +11,7 @@ This article provides a glimpse into the two major pillars of payments; **Author
 
 ## Authorization
 
-This refers to the stage where a customer's transaction request is **_authorized_** by the **issuer** bank. A customer can do any of the following:
+This refers to the stage where a customer's transaction request is **_authorized_** by the **issuer** bank. A customer can perform any of the following:
 
 - **Insert** the card into the merchant's POS terminal and **enter** the PIN manually
 - **Tap** the card on the merchant's POS terminal and **return** it to the merchant

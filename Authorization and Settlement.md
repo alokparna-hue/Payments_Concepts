@@ -2,7 +2,7 @@
 
 The hallmark of a good payment transaction lies in how **easy and fogettable it is for the customers**. 
 A hassle-free offline and online transaction guarantees customer retention and an enhanced experience. 
-What looks like a few seconds of some number exchange and buttons tapping, is a mesh of detailed processes and systems that come togther to make every transaction successful. 
+What looks like a few seconds of some number exchange and buttons tapping, is a mesh of detailed processes and systems that come togther to make every transaction successful and hassle-free. 
 This article provides a glimpse into the two major pillars of payments; **Authorization** and **Settlement**.
 
 | **Note** |
